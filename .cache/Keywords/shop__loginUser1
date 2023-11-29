@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F3A5F98FBAE82C28E9BF2353BDA3219B",
+  "keywordClasses": [
+    {
+      "name": "shop.loginUser1",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
